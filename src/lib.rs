@@ -1,4 +1,5 @@
 mod errors;
+pub mod x32;
 
 use errors::UnknownValueError;
 
